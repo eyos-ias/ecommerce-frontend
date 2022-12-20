@@ -67,7 +67,7 @@ const Navbar = () => {
             <SearchIcon style={{color: 'gray', fontSize: 14}}/>
           </SearchContainer>
         </Left>
-        <Center><Logo>EYOS.</Logo></Center>
+        <Center><Logo>SHOP.</Logo></Center>
         <Right>
             <MenuItem>REGISTER</MenuItem>
             <MenuItem>SIGN IN</MenuItem>

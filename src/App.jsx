@@ -8,7 +8,7 @@ function App() {
 
 
   return (
-    <Cart />
+    <Home/>
   )
 }
 
