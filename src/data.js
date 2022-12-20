@@ -3,7 +3,7 @@ export const sliderItems = [
         id: 1,
         img: "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/63737c1780577522b2c5cf21_2%201-p-800.jpg",
         title: "WINTER SALE",
-        desc: "DONT'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
+        desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
         bg: "F5F5F5"
     },
     {
@@ -17,7 +17,7 @@ export const sliderItems = [
         id: 3,
         img: "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/625feaf9de152659213f6a43_5ef0acc0bfcf6a505b429bad_Order%2520%2523538707%2520%257C%2520vanessa%2540ericawilson.com%25202-p-800.jpeg",
         title: "LOUNGEWEAR LOVE",
-        desc: "DONT'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
+        desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
         bg: "F5F5F5"
     },
 
